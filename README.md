@@ -1,3 +1,9 @@
+## My Contribution
+
+- Contributed to the AI/ML pipeline for football video analysis.
+- Worked on player tracking, action analysis, heatmap generation, and dashboard integration.
+- Helped transform raw match videos into tactical and performance insights for coaches and analysts.
+
 # Goalithm
 
 Football intelligence dashboard for player tracking, movement heatmaps, match event spotting, player action detection, review, and analysis history.
